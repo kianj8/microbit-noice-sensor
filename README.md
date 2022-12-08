@@ -1,1 +1,1 @@
-# microbit-noice-sensor
+# microbit-noise-sensor
