@@ -15,7 +15,9 @@ You can get this all from the digital explorers pack: Trekking the Grove kit.
 
 ### The code
 ![image](https://user-images.githubusercontent.com/42162699/206775966-9f0e17d2-da44-4ef4-8496-ad0f8816d515.png)
+
 The sound sensor returns analog value asigning it to the var "soundsensor".
+
 ![image](https://user-images.githubusercontent.com/42162699/206775833-d2299330-aad3-49bf-b362-9a0eb02f5b56.png)
 
 Using comparasons the light and vibrator are turned on at different intervals depending on the sound in the room.
