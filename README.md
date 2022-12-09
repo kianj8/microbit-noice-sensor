@@ -21,6 +21,11 @@ The sound sensor returns analog value asigning it to the var "soundsensor".
 ![image](https://user-images.githubusercontent.com/42162699/206775833-d2299330-aad3-49bf-b362-9a0eb02f5b56.png)
 
 Using comparasons the light and vibrator are turned on at different intervals depending on the sound in the room.
+
+![image](https://user-images.githubusercontent.com/42162699/206776756-6ba2c96b-20ec-41db-9477-8934e19e2b01.png)
+
 This helps your ears to stay healthy by inusring your areas decibles are not too loud. 
+
+
 
 
