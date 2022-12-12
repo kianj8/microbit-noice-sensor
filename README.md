@@ -26,6 +26,11 @@ Using comparasons the light and vibrator are turned on at different intervals de
 
 This helps your ears to stay healthy by inusring your areas decibles are not too loud. 
 
+## Resources
+https://micromaker.co.uk/innovation-lessons/
+
+This resource was extremly helpful in expaing how pins are detected on a microbit using the breakout board.
+
 
 
 
